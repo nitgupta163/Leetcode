@@ -22,6 +22,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -41,9 +42,18 @@ I will be pushing all my leetcode solutions in this repo.
 ## Linked List
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitgupta163/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitgupta163/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
