@@ -10,6 +10,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/nitgupta163/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -19,6 +20,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
@@ -31,4 +33,8 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
