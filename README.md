@@ -30,6 +30,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/nitgupta163/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
@@ -64,4 +65,16 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/nitgupta163/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/nitgupta163/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/nitgupta163/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
