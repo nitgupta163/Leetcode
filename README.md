@@ -81,9 +81,22 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nitgupta163/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nitgupta163/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nitgupta163/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
