@@ -25,6 +25,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -48,6 +49,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -110,4 +112,16 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
