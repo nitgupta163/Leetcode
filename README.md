@@ -26,6 +26,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -99,6 +100,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Union Find
 |  |
@@ -124,4 +126,8 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
