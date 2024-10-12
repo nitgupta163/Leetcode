@@ -1,4 +1,29 @@
 class Solution {
+public:
+    int maxWidthRamp(vector<int>& nums)
+    {
+        int i, n = nums.size(), ans = 0;
+        vector<int> stack;
+        stack.push_back(n-1);
+        for(i=n-2; i>=0; i--)
+        {
+            if(nums[i]>nums[stack.back()])
+                stack.push_back(i);
+            else
+            {
+                // we can use binary search here to optimize further
+                for(int j=stack.size()-1; j>=0; j--)
+                {
+                    if(nums[i] <= nums[stack[j]])
+                        ans = max(ans,stack[j]-i);
+                }
+            }
+        }
+        return ans;
+    }
+};
+/*
+class Solution {
     int Check(vector<int>& nums, int ind, stack<int> st)
     {
         int ans = 0;
@@ -33,3 +58,4 @@ public:
         return ans;
     }
 };
+*/
