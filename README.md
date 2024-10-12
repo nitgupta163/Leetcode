@@ -26,6 +26,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
+| [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -130,4 +131,12 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
