@@ -25,6 +25,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -44,11 +45,13 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Hash Table
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -132,6 +136,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Stack
@@ -142,4 +147,8 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
