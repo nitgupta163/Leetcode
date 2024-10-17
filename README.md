@@ -7,6 +7,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0670-maximum-swap](https://github.com/nitgupta163/Leetcode/tree/master/0670-maximum-swap) |
 | [1236-n-th-tribonacci-number](https://github.com/nitgupta163/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitgupta163/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/nitgupta163/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/nitgupta163/Leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/nitgupta163/Leetcode/tree/master/3195-separate-black-and-white-balls) |
