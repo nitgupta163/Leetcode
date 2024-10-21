@@ -44,6 +44,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/nitgupta163/Leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitgupta163/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitgupta163/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3195-separate-black-and-white-balls](https://github.com/nitgupta163/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -119,6 +120,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitgupta163/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Union Find
@@ -172,6 +174,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitgupta163/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitgupta163/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
