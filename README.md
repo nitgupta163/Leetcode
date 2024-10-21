@@ -41,6 +41,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/nitgupta163/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/nitgupta163/Leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitgupta163/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -87,6 +88,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitgupta163/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Rolling Hash
 |  |
@@ -154,6 +156,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
