@@ -29,11 +29,22 @@ public:
                     q.push(ptr->left);
                 if(ptr->right)
                     q.push(ptr->right);
-            }
-            pq.push(sum);
-            if(pq.size()>k)
-                pq.pop();
+            }            
+            if(pq.size()==k)         
+            {
+                if(pq.top()<sum)
+                {
+                    pq.pop();   
+                    pq.push(sum);
+                }
+            }         
+            else pq.push(sum);
         }
+        // while(!pq.empty())
+        // {
+        //     cout << pq.top() << " ";
+        //     pq.pop();
+        // }
         if(pq.size() < k)   return -1;
         return pq.top();
     }
