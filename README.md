@@ -29,6 +29,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitgupta163/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitgupta163/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -43,6 +44,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0241-different-ways-to-add-parentheses](https://github.com/nitgupta163/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/nitgupta163/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitgupta163/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitgupta163/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitgupta163/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -110,12 +112,14 @@ I will be pushing all my leetcode solutions in this repo.
 | [0386-lexicographical-numbers](https://github.com/nitgupta163/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/nitgupta163/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitgupta163/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nitgupta163/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nitgupta163/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nitgupta163/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitgupta163/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
