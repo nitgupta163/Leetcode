@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
 public:
     int maxMoves(vector<vector<int>>& grid)
     {
@@ -8,6 +8,7 @@ public:
         {
             for(i=0; i<n; i++)
             {
+                dp1[i] = 0;
                 if(grid[i][j] < grid[i][j+1])
                     dp1[i] = max(dp1[i],1+dp2[i]);
                 if(i-1>=0 && grid[i][j] < grid[i-1][j+1])
@@ -15,21 +16,18 @@ public:
                 if(i+1<n && grid[i][j] < grid[i+1][j+1])
                     dp1[i] = max(dp1[i],1+dp2[i+1]);
             }
-            for(int num : dp1)
-                cout << num << " ";
-            cout << "\n";
-            swap(dp2,dp1);
-        }    
+            dp2 = dp1;
+        }      
         int ans = 0;
         for(i=0; i<n; i++)
         {
-            if(dp1[i] > ans)
-                ans = dp1[i];
+            if(dp2[i] > ans)
+                ans = dp2[i];
         }
         return ans;
     }
-}; */
-
+};
+/*
 class Solution {
 public:
     int maxMoves(vector<vector<int>>& grid)
@@ -57,3 +55,4 @@ public:
         return ans;
     }
 };
+*/
