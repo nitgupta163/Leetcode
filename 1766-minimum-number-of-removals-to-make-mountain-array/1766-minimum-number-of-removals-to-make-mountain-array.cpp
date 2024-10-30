@@ -36,13 +36,7 @@ public:
         for(i=0; i<n; i++)
             if(_max<(lis[i]+lds[i]) && lis[i]!=1 && lds[i]!=1)
                 _max = lis[i]+lds[i];
-            
-        for(i=0; i<n; i++)
-            cout << lis[i] << " ";
-        cout << "\n";
-        for(i=0; i<n; i++)
-            cout << lds[i] << " ";
-        cout << "\n";        
+                   
         return n-_max+1;
     }
 };
