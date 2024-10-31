@@ -17,6 +17,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/nitgupta163/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nitgupta163/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
@@ -39,6 +40,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nitgupta163/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nitgupta163/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -71,6 +73,7 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [0179-largest-number](https://github.com/nitgupta163/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nitgupta163/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search
 |  |
