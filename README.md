@@ -57,6 +57,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitgupta163/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitgupta163/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/nitgupta163/Leetcode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/nitgupta163/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
