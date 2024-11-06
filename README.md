@@ -43,6 +43,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nitgupta163/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nitgupta163/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -77,6 +78,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nitgupta163/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nitgupta163/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitgupta163/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/nitgupta163/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
