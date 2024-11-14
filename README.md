@@ -37,6 +37,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitgupta163/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nitgupta163/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nitgupta163/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/nitgupta163/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nitgupta163/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -87,6 +88,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nitgupta163/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Linked List
 |  |
 | ------- |
