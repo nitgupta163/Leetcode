@@ -44,6 +44,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nitgupta163/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitgupta163/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nitgupta163/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nitgupta163/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nitgupta163/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -80,6 +81,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nitgupta163/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2554-minimum-total-distance-traveled](https://github.com/nitgupta163/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nitgupta163/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nitgupta163/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nitgupta163/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +204,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Two Pointers
 |  |
 | ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/nitgupta163/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
