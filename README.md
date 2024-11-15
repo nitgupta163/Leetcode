@@ -34,6 +34,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitgupta163/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nitgupta163/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitgupta163/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitgupta163/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -89,6 +90,7 @@ I will be pushing all my leetcode solutions in this repo.
 | [0300-longest-increasing-subsequence](https://github.com/nitgupta163/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/nitgupta163/Leetcode/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nitgupta163/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nitgupta163/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nitgupta163/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -193,10 +195,12 @@ I will be pushing all my leetcode solutions in this repo.
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitgupta163/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nitgupta163/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/nitgupta163/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nitgupta163/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +208,7 @@ I will be pushing all my leetcode solutions in this repo.
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nitgupta163/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitgupta163/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/nitgupta163/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
