@@ -13,7 +13,7 @@ public:
             j--;
         int prefix = i+1;
         int suffix = n-j;
-        cout << prefix << " " << suffix << "\n";
+        // cout << prefix << " " << suffix << "\n";
         int concatenate = 0;
         for(k=i; k>=0; k--)
         {
@@ -21,7 +21,7 @@ public:
             if(it != nums.end())    
                 concatenate = max(concatenate, (int)(k+1+(nums.end()-it)));
         }
-        cout << k <<"\n";
+        // cout << k <<"\n";
         // int concatenate = k+1 + num.end();
         return n-max(concatenate,max(prefix,suffix));
     }
