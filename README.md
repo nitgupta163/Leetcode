@@ -174,6 +174,7 @@ I will be pushing all my leetcode solutions in this repo.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nitgupta163/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3189-find-champion-ii](https://github.com/nitgupta163/Leetcode/tree/master/3189-find-champion-ii) |
 ## Counting
 |  |
 | ------- |
